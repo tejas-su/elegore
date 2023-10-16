@@ -1,5 +1,5 @@
 # Elegore
 
-A eCommerce app for a jwellery store built using flutter.
+An eCommerce app for a Jewlery store built using flutter. 
 
 

@@ -13,7 +13,7 @@ An eCommerce app UI for a Jewlery store built using flutter.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/tejas-su)
+- [@tejas-su](https://www.github.com/tejas-su)
 
 
 ## Screenshots

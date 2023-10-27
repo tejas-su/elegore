@@ -1,4 +1,5 @@
 import 'package:elegore/pages/about_page.dart';
+import 'package:elegore/pages/profile_page.dart';
 import 'package:elegore/theme/theme_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -20,6 +21,7 @@ class _MainPageState extends State<MainPage> {
     const HomePage(),
     const DiscoverPage(),
     const CartPage(),
+    const ProfilePage(),
   ];
   int _selectedIndex = 0;
 
@@ -142,6 +144,11 @@ class _MainPageState extends State<MainPage> {
             GButton(
               icon: Icons.shopping_bag,
               text: 'Cart',
+              gap: 8,
+            ),
+            GButton(
+              icon: Icons.person,
+              text: 'Profile',
               gap: 8,
             ),
           ],
